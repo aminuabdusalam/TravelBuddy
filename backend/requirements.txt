@@ -1,0 +1,9 @@
+# TravelBuddy backend — Django REST API + OpenCV bag scanner.
+# Pinned to versions compatible with Python 3.10+ and the original 2022 hackathon code.
+Django>=4.2,<5
+djangorestframework>=3.14,<4
+opencv-python>=4.6,<5
+imutils>=0.5.4
+numpy>=1.23,<2
+scipy>=1.9,<2
+qrcode[pil]>=7.3,<8
