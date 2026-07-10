@@ -57,7 +57,7 @@ npm start          # opens Expo dev tools; scan the QR with Expo Go
 
 ## Team
 
-Built for the 2022 BE-Smart Hack at Fisk University by a team of 5. My role was full-stack — worked across the React Native front-end, the Django API, and integrating the bag-scanner service.
+Built for the 2022 BE-Smart Hack at Fisk University by a team of 5. **My role was backend** — I built the Django REST API and was **solely responsible for the OpenCV bag-scanner service** (the computer-vision piece that measures bag dimensions from phone photos and classifies them as carry-on vs. checked).
 
 ## Status
 
